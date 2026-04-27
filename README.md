@@ -19,13 +19,11 @@ Aplikasi Kasir cerdas yang dirancang untuk UMKM, mengedepankan efisiensi, desain
 * **Dependency Injection:** Manual/ViewModelProvider
 * **Animation:** Compose Animation (Swipe-to-Dismiss, AnimatedContent, PagerState)
 
-## 📸 Preview
-*(Tambahkan Screenshot atau Video GIF di sini nanti)*
+## Download
 
-## 🚧 Status Proyek
-Aplikasi ini sedang dalam tahap **Beta/Active Development**. Rencana selanjutnya meliputi:
-- [ ] Integrasi Laporan Laba/Rugi Bulanan
-- [ ] Backup data ke Cloud
-- [ ] Optimasi performa untuk perangkat low-end
+Anda dapat mengunduh versi stabil terbaru aplikasi ini melalui halaman [Release]((https://github.com/WahyuMina/Aplication-My-Kasir/releases/tag/v1.0)).
 
+1. Unduh file **My_Kasir_v1.0.apk**.
+2. Buka file tersebut di perangkat Android Anda.
+3. Izinkan instalasi dari "Sumber Tidak Dikenal" (Unknown Sources) jika diminta oleh sistem.
 
