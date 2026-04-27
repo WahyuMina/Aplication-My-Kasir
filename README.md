@@ -1,7 +1,7 @@
 # MyKasir 
 **A Modern Point of Sales (POS)**
 
-Aplikasi Kasir cerdas yang dirancang untuk UMKM, mengedepankan efisiensi, desain modern (Royal Onyx Theme), dan pengalaman pengguna yang mulus. Proyek ini dibangun sebagai bagian dari pengembangan portofolio Android Development saya menggunakan teknologi terbaru di ekosistem Android.
+Aplikasi Kasir cerdas yang dirancang untuk UMKM, mengedepankan efisiensi, dan pengalaman pengguna yang mulus. Proyek ini dibangun sebagai bagian dari pengembangan portofolio Android Development saya menggunakan teknologi terbaru di ekosistem Android.
 
 ## ✨ Fitur Utama
 * **Smart Cashier System:** Scan barcode menggunakan kamera HP (ML Kit/Vision API) atau input manual.
